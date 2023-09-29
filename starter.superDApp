@@ -1,4 +1,4 @@
-type = //"JS" or "iframe"
+type = //"Lua" or "JS" or "iframe"
 title = //Enter The App Title as a "string" here
 code = //enter app code as a "string" if type is "JS" or "Lua". if you need to do appendChild to app use the App object
 url = //enter app url as a "string" if type is "iframe"
