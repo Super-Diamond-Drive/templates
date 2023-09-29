@@ -1,0 +1,4 @@
+type = //"JS" or "iframe"
+title = "App Title"
+code = //enter app code as a "string" if type is "JS"
+url = //enter app url as a "string" if type is "iframe"
